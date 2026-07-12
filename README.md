@@ -18,7 +18,10 @@ Hardware Features:
 <img width="1827" height="1218" alt="image" src="https://github.com/user-attachments/assets/7a78771e-a1f3-4667-be9f-305436f66a94" />
 
 Software Features: 
-- Running FOC based code. Some works has been done for arduino based designs (see https://docs.simplefoc.com/code) but going to use as inspiration rather than importing into STM code. ST has a decent starter guide for FOC implementation here: https://www.st.com/en/embedded-software/x-cube-mcsdk.html#overview .
+- Running FOC based code. Some works has been done for arduino based designs (see https://docs.simplefoc.com/code) but going to use as inspiration rather than importing into STM code. ST has a decent starter guide for FOC implementation here: https://www.st.com/en/embedded-software/x-cube-mcsdk.html#overview.
+  
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/14d60fc2-151d-415a-8a43-780cc55afb12" />
+
 - Live CAN FD Data feed from sensor data (List of sensors to develop. Transmit to website/server.
 - Conservative fault values from sensor/health data (i.e. overcurrent, overtemp, humidity, overspeed, i2t, etc.)
 - Audio ques for different run states
