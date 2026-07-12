@@ -10,7 +10,7 @@ Hardware Features:
 - 5v Regulated Power Supply w/ Parallel Lipo Batteries (High Current Supply)
 - Using STM32 w/ STM32U301R8 micro (convenicence since this is the micro that's used in my launchpad)
 - Status Indicator Lights for Run State (Idle, Sentry, Run, Brake, Fault)
-- 4-Stack ESC/Motor Controller per Tire (
+- 4-Stack ESC/Motor Controller per Tire w intergrated IMus for level tracking
 - Low Side Current Sensing (Differential Opamp)
 - 10 Gauge Wire
 - 4-Layer PCB Desisgn
