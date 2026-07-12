@@ -18,7 +18,7 @@ Hardware Features:
 <img width="1827" height="1218" alt="image" src="https://github.com/user-attachments/assets/7a78771e-a1f3-4667-be9f-305436f66a94" />
 
 Software Features: 
-- Running FOC based code. Some works has been done for arduino based designs (see https://docs.simplefoc.com/code) but going to use as inspiration rather than importing into STM code. See https://www.ti.com/lit/ml/slyp711/slyp711.pdf for explanation on to FOC vs Trap
+- Running FOC based code. Some works has been done for arduino based designs (see https://docs.simplefoc.com/code) but going to use as inspiration rather than importing into STM code. ST has a decent starter guide for FOC implementation here: https://www.st.com/en/embedded-software/x-cube-mcsdk.html#overview .
 - Live CAN FD Data feed from sensor data (List of sensors to develop. Transmit to website/server.
 - Conservative fault values from sensor/health data (i.e. overcurrent, overtemp, humidity, overspeed, i2t, etc.)
 - Audio ques for different run states
