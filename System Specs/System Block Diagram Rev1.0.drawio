@@ -1,0 +1,109 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="9BrhJASb2WrTz7i55ipJ">
+    <mxGraphModel dx="1414" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="Front Left Traction" vertex="1">
+          <mxGeometry height="80" width="80" x="630" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-24" edge="1" parent="1" source="tyNNX3XtSpMd40PDKXFX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tyNNX3XtSpMd40PDKXFX-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Battery (5v)" vertex="1">
+          <mxGeometry height="80" width="80" x="50" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-36" edge="1" parent="1" source="tyNNX3XtSpMd40PDKXFX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tyNNX3XtSpMd40PDKXFX-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-49" edge="1" parent="1" source="tyNNX3XtSpMd40PDKXFX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tyNNX3XtSpMd40PDKXFX-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-8" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Controller 1" vertex="1">
+          <mxGeometry height="80" width="80" x="500" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-48" edge="1" parent="1" source="tyNNX3XtSpMd40PDKXFX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tyNNX3XtSpMd40PDKXFX-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-14" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="DATA NODE/TELEMETRY&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="340" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-23" edge="1" parent="1" source="tyNNX3XtSpMd40PDKXFX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="tyNNX3XtSpMd40PDKXFX-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-21" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Battery (5v)" vertex="1">
+          <mxGeometry height="80" width="80" x="50" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-25" edge="1" parent="1" source="tyNNX3XtSpMd40PDKXFX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="tyNNX3XtSpMd40PDKXFX-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-42" edge="1" parent="1" source="tyNNX3XtSpMd40PDKXFX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tyNNX3XtSpMd40PDKXFX-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="290" />
+              <mxPoint x="250" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-43" edge="1" parent="1" source="tyNNX3XtSpMd40PDKXFX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="tyNNX3XtSpMd40PDKXFX-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="310" />
+              <mxPoint x="230" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-44" edge="1" parent="1" source="tyNNX3XtSpMd40PDKXFX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="tyNNX3XtSpMd40PDKXFX-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="310" />
+              <mxPoint x="210" y="590" />
+              <mxPoint x="500" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-47" edge="1" parent="1" source="tyNNX3XtSpMd40PDKXFX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tyNNX3XtSpMd40PDKXFX-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-22" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="BMS" vertex="1">
+          <mxGeometry height="80" width="80" x="190" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-37" edge="1" parent="1" source="tyNNX3XtSpMd40PDKXFX-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tyNNX3XtSpMd40PDKXFX-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-50" edge="1" parent="1" source="tyNNX3XtSpMd40PDKXFX-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tyNNX3XtSpMd40PDKXFX-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-26" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Controller 2" vertex="1">
+          <mxGeometry height="80" width="80" x="500" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-38" edge="1" parent="1" source="tyNNX3XtSpMd40PDKXFX-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tyNNX3XtSpMd40PDKXFX-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-51" edge="1" parent="1" source="tyNNX3XtSpMd40PDKXFX-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shape=wire;dashed=1;" target="tyNNX3XtSpMd40PDKXFX-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-27" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Controller 3" vertex="1">
+          <mxGeometry height="80" width="80" x="500" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-39" edge="1" parent="1" source="tyNNX3XtSpMd40PDKXFX-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tyNNX3XtSpMd40PDKXFX-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-28" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Controller 4" vertex="1">
+          <mxGeometry height="80" width="80" x="500" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-29" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Front Right Traction" vertex="1">
+          <mxGeometry height="80" width="80" x="630" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-30" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="Back Left Traction" vertex="1">
+          <mxGeometry height="80" width="80" x="630" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="tyNNX3XtSpMd40PDKXFX-31" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="Back Right Traction" vertex="1">
+          <mxGeometry height="80" width="80" x="630" y="510" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
