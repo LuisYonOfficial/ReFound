@@ -1,6 +1,7 @@
 # ReFound Terrestrial Vehicle
 
 This was a project I've been meaning to do for a while and came about while hiking in the Tetons in Wyoming and further encouraged by some fun afterwork RC development between colleagues at my company. I've messed with RC cars in the past and although they're pretty speedy, i'm more interested in developing a variant of it that is more attuned to a high degree of torque control with respect to an extremely varied terrain mapping (almost like a tank in terms of mobilty. Something that could survive high altitude climbs and hold brakes at high degree inclines. Something that if I dropped down in a quarry would be able to manuever around great with FPV control and sensory feedback. On a more practical note I could slot my phone on the headpiece of the vehicle for some wildlife photos with a more grounded view vs your typical drone photography or cool positions for astrophotography.
+
 <img width="1195" height="541" alt="image" src="https://github.com/user-attachments/assets/9ab773d5-8f91-4d7e-83ce-70b0d638f7c2" />
 
 The mechanical design I envision is along the line of a Tyco Rebound ars from the late 90's. (Link for reference https://tycocollectors.com/models/1996-tyco-rebound-4x4/)
