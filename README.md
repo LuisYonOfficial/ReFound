@@ -10,8 +10,8 @@ The mechanical design I envision is along the line of a Tyco Rebound ars from th
 Some for stretching my skills in protocol writing and motor controller design and others just for the fun and curiousity of it. Specifications are still to be written but some of the features im targetting are the following: 
 
 Motor Selection: 
-- After preusing online, without going too extreme in terms of price I've settled on the XeRun AXE 4274 FOC motor. Creme of the crop when it comes to RC crawlers. Comes with it's own ESC but for the sake of the project goals I'll be making my own.
-    - Datasheet: https://www.hobbywingdirect.com/collections/axe-4274-motors
+- After preusing online, without going too extreme in terms of price I've settled on theQuiCRUN Fusion SE Motor.
+    - Datasheet: (https://cdn.shopify.com/s/files/1/0109/9702/files/User_manual_XERUN_AXE_R3_system.pdf?v=1716074509)
 
 On-Board Hardware Features: 
 - Power Supply
