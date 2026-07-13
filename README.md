@@ -1,12 +1,16 @@
 # ReFound Terrestrial Vehicle
 
 This was a project I've been meaning to do for a while and came about while hiking in the Tetons in Wyoming and further encouraged by some fun afterwork RC development between colleagues at my company. I've messed with RC cars in the past and although they're pretty speedy, i'm more interested in developing a variant of it that is more attuned to a high degree of torque control with respect to an extremely varied terrain mapping (almost like a tank in terms of mobilty. Something that could survive high altitude climbs and hold brakes at high degree inclines. Something that if I dropped down in a quarry would be able to manuever around great with FPV control and sensory feedback. On a more practical note I could slot my phone on the headpiece of the vehicle for some wildlife photos with a more grounded view vs your typical drone photography or cool positions for astrophotography.
-<img width="1920" height="600" alt="image" src="https://github.com/user-attachments/assets/a3ce2e68-fa92-4c29-988c-beb3807fdbea" />
+<img width="1195" height="541" alt="image" src="https://github.com/user-attachments/assets/9ab773d5-8f91-4d7e-83ce-70b0d638f7c2" />
 
 The mechanical design I envision is along the line of a Tyco Rebound ars from the late 90's. (Link for reference https://tycocollectors.com/models/1996-tyco-rebound-4x4/)
 <img width="600" height="470" alt="image" src="https://github.com/user-attachments/assets/c0bf8919-a4a9-4abc-97b7-473e31f42cdd" /> 
 
 Some for stretching my skills in protocol writing and motor controller design and others just for the fun and curiousity of it. Specifications are still to be written but some of the features im targetting are the following: 
+
+Motor Selection: 
+- After preusing online, without going too extreme in terms of price I've settled on the XeRun AXE 4274 FOC motor. Creme of the crop when it comes to RC crawlers. Comes with it's own ESC but for the sake of the project goals I'll be making my own.
+    - Datasheet: https://www.hobbywingdirect.com/collections/axe-4274-motors
 
 On-Board Hardware Features: 
 - Power Supply
