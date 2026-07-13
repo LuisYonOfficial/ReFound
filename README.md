@@ -24,7 +24,6 @@ On-Board Hardware Features:
      - 4-Stack ESC/Motor Controller per Tire w intergrated IMus for level tracking
      - Low Side Current Sensing (Differential Opamp)
 - 4-Layer PCB Desisgn
-<img width="950" height="760" alt="image" src="https://github.com/user-attachments/assets/fdc64650-af79-46f3-95c0-8dd929ee3cdf" />
 
 Software Features: 
 - Control Method:
