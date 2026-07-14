@@ -22,7 +22,7 @@ On-Board Hardware Features:
 - Micro
     - Using STM32 w/ STM32F042K6 micro (Industry favorite, and easy to source for testing https://estore.st.com/en/nucleo-f042k6-cpn.html?ecmp=tt48069_gl_ps_feb2026&aw_pl=&aw_c=22473118548&aw_de=c&aw_dm=&aw_tg=pla-2443119483834&aw_gclid=CjwKCAjwmdLSBhANEiwAkREMNz5DVm-KAH9L_AlRRRa18S1szPnDuzbXzbn8Uvmyu7ACAvqGHG1wvBoCgxYQAvD_BwE )
 - Inverter Design
-     - 4-Stack ESC/Motor Controller per Tire w intergrated IMus for level tracking
+     - 2-Stack ESC/Motor Controller per rotating axle (4WD)
      - Low Side Current Sensing (Differential Opamp)
 - 4-Layer PCB Desisgn
 
